@@ -11,10 +11,14 @@
             "id": "dfef3a2e3e4bc18c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Source/LLM Agent开发入门.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "LLM Agent开发入门"
             }
           }
         ]
@@ -83,12 +87,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Source/LLM Agent开发入门.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "LLM Agent开发入门 的大纲"
             }
           },
           {
@@ -97,11 +102,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Source/LLM Agent开发入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "LLM Agent开发入门 的出链列表"
             }
           },
           {
@@ -110,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Source/LLM Agent开发入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "LLM Agent开发入门 的反向链接列表"
             }
           },
           {
@@ -151,8 +158,9 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "73b1d6ea15a2d8ed",
+  "active": "e34587b1f895d1af",
   "lastOpenFiles": [
+    "Source/LLM Agent开发入门.md",
     "Readme.md",
     "Attachment/Copilot/Chat-2023_10_06-17_54_13.md",
     "Attachment/Copilot",
@@ -167,7 +175,6 @@
     "Attachment/Copilot/Chat-2023_09_17-19_52_26.md",
     "Copilot-conversations/Chat-2023_09_17-19_51_05.md",
     "Copilot-conversations",
-    "未命名.md",
     "github使用指南.md",
     "Source",
     "Attachment/Excalidraw/2023-09-17.excalidraw.md",
