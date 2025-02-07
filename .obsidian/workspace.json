@@ -11,10 +11,24 @@
             "id": "dfef3a2e3e4bc18c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Source/LLM Agent开发入门.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LLM Agent开发入门"
             }
           }
         ]
@@ -138,7 +152,9 @@
       "graph:查看关系图谱": false,
       "surfing:surfing-bookmark-manager": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false
     }
   },
   "active": "dfef3a2e3e4bc18c",
