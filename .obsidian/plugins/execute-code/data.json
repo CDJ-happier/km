@@ -1,5 +1,5 @@
 {
-  "lastOpenLanguageTab": "shell",
+  "lastOpenLanguageTab": "python",
   "releaseNote2_0_0wasShowed": true,
   "persistentOuput": false,
   "timeout": 10000,
@@ -29,7 +29,7 @@
   "csArgs": "",
   "csFileExtension": "csx",
   "csInject": "",
-  "pythonPath": "/Users/wallanceleon/anaconda3/bin/python",
+  "pythonPath": "D://apps//miniconda3//envs//py3.12//python.exe",
   "pythonArgs": "",
   "pythonEmbedPlots": true,
   "pythonFileExtension": "py",

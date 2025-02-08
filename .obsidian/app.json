@@ -9,5 +9,6 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Attachment/Others",
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "showLineNumber": false
 }
