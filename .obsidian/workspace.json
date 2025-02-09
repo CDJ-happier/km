@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 200
   },
   "right": {
     "id": "4847b22a05ce3268",
@@ -77,12 +77,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Source/LLM Agent开发入门.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "LLM Agent开发入门 的大纲"
             }
           },
           {
@@ -131,8 +132,7 @@
               "title": "添加笔记属性"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,7 +152,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "373ce9926a84b7e9",
+  "active": "1e77fa54c86e5340",
   "lastOpenFiles": [
     "计算化方向发展.md",
     "Source/LLM Agent开发入门.md",
